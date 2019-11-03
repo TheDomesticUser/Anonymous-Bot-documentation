@@ -1,3 +1,5 @@
-# This is the directory containing the documentation for root commands
+# Root commands documentation
 
-The prefix is ~
+Prefix: ~
+
+Root commands can only be used by a root user (Users with the highest privilege in the guild)
